@@ -1,3 +1,3 @@
 # myrepostiory
 
-Hi Humans!
+Hi humans
